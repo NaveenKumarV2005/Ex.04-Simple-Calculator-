@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:
+## Date: 11.04.25
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
@@ -196,7 +196,8 @@ button:hover {
 ```
 
 ## OUTPUT
-![Screenshot 2025-04-28 153614](https://github.com/user-attachments/assets/57bd671e-8fc1-455d-ac07-79b7298251ac) ![Screenshot 2025-04-28 153603](https://github.com/user-attachments/assets/44e6d79e-13dc-4b8f-a692-e6e96afac09e)
+![Screenshot 2025-04-28 153614](https://github.com/user-attachments/assets/57bd671e-8fc1-455d-ac07-79b7298251ac) 
+![Screenshot 2025-04-28 153603](https://github.com/user-attachments/assets/44e6d79e-13dc-4b8f-a692-e6e96afac09e)
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
